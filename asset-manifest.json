@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/raj-task-manager/static/css/main.8ec49b99.css",
+    "main.css": "/raj-task-manager/static/css/main.9a890141.css",
     "main.js": "/raj-task-manager/static/js/main.e3a12074.js",
     "static/js/453.a53b11f0.chunk.js": "/raj-task-manager/static/js/453.a53b11f0.chunk.js",
     "index.html": "/raj-task-manager/index.html",
-    "main.8ec49b99.css.map": "/raj-task-manager/static/css/main.8ec49b99.css.map",
+    "main.9a890141.css.map": "/raj-task-manager/static/css/main.9a890141.css.map",
     "main.e3a12074.js.map": "/raj-task-manager/static/js/main.e3a12074.js.map",
     "453.a53b11f0.chunk.js.map": "/raj-task-manager/static/js/453.a53b11f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ec49b99.css",
+    "static/css/main.9a890141.css",
     "static/js/main.e3a12074.js"
   ]
 }
