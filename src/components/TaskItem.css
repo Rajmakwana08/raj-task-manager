@@ -1,0 +1,49 @@
+.task-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+  }
+  
+  .task-item:hover {
+    transform: translateY(-2px);
+    background-color: #eae4e9;
+  }
+  
+  .task-text {
+    font-size: 1.1rem;
+    font-family: "Roboto", sans-serif;
+    color: #22223b;
+    cursor: pointer;
+    transition: color 0.2s ease;
+  }
+  
+  .task-text.completed {
+    text-decoration: line-through;
+    color: #9a8c98;
+  }
+  
+  .remove-button {
+    background-color: #ff6b6b;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+  }
+  
+  .remove-button:hover {
+    background-color: #e63946;
+    transform: scale(1.1);
+  }
+  
